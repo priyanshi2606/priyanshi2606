@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm chunawala priyanshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Priyanshi chunawala</h1>
+<h3 align="center">A passionate Full stack developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi2606" alt="priyanshi2606" /></a> </p>
 
