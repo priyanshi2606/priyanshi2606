@@ -1,61 +1,88 @@
-<h1 align="center">Hi 👋, I'm Priyanshi Chunawala</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Lifelong Learner | Problem Solver</h3>
+<h1 align="center">👋 Hi, I'm Priyanshi Chunawala</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🎯 Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/priyanshi2606">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshi2606&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyanshi2606&theme=gruvbox&margin-w=15&margin-h=15&column=7" alt="Trophies" />
   </a>
 </p>
 
+---
+
+### 👩‍💻 About Me
+
+
 - 🔭 I’m currently working on **MERN Stack Projects & Automation Tools**
 - 🌱 I’m exploring **DevOps, AI integrations, and Cloud Technologies**
-- 👯 I’m looking to collaborate on **open-source and impactful real-world projects**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshi-chunawala-270249257/)
-- 💬 Ask me about **React, Node.js, MongoDB, SQL, C/C++, Python, Java**
-- ⚡ Fun fact: I love designing intuitive UIs and learning how things work behind the scenes!
+- 🎯 Goal: To build scalable, accessible, and efficient tech solutions that impact lives
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshi-chunawala-270249257/)
+- 🏆 1st Place Winner - **Hackdays@sellular**
+- 🏆 2nd Place Winner - **Codeathon at PPSU**
+- ✨ Fun Fact: I love blending **design** and **code** to create seamless user experiences
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanshi-chunawala-270249257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/priyanshi2606">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/priyanshi2606" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+### 🛠️ Tech Stack & Tools
+
+**Languages & Backend**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+**Frontend & UI**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+**Others & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi2606&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi2606&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi2606&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi2606&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
 
-### ✨ Let's Build Something Amazing Together!
+
+
+
+### 💬 Let's Collaborate!
+
+> “The best way to predict the future is to create it.” – Let’s build the future together!  
+If you like what I do, feel free to connect or collaborate on interesting ideas or projects.
+
+---
+
